@@ -1,0 +1,30 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">32sp</dimen>
+    <dimen name="detail_body_text_size">22sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
+
+    <dimen name="fab_elevation">6dp</dimen>
+    <dimen name="fab_press_translation_z">6dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="fab_border_width">0dp</dimen>
+
+    <dimen name="photo_background_protection_height">112dp</dimen>
+
+    <dimen name="up_button_width">56dp</dimen>
+
+    <dimen name="logo_margin">8dp</dimen>
+
+    <dimen name="toolbar_elevation">4dp</dimen>
+    <dimen name="toolbar_height">112dp</dimen>
+
+    <dimen name="card_margin">4dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="card_title_side_padding">16dp</dimen>
+    <dimen name="card_title_top_padding">16dp</dimen>
+    <dimen name="card_title_bottom_padding">4dp</dimen>
+    <dimen name="card_subtitle_padding">16dp</dimen>
+
+    <dimen name="article_elevation">2dp</dimen>
+
+</resources>
